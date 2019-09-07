@@ -1,0 +1,23 @@
+{
+    "entry_1":{
+        "title":"Revenue",
+        "smartphone":"80000",
+        "tablet":"120000",
+        "color":"green",
+        "valueType":"money"
+    },
+    "entry_2":{
+        "title":"Impressions",
+        "smartphone":"30000000",
+        "tablet":"20000000",
+        "color":"blue",
+        "valueType":"normal"
+    },
+    "entry_3":{
+        "title":"Visits",
+        "smartphone":"120000000",
+        "tablet":"480000000",
+        "color":"yellow",
+        "valueType":"normal"
+    }
+}
